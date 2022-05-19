@@ -11,4 +11,5 @@ for example
 
 Player1 Total Children: 9+ 2 + 5 + 0+ 0+ 2 +0+ 0 + 1 +0 = 19
 Oyuncu2 Total Children: 9+ 1 + 6 + 0+ 5+ 1 +2+ 0 + 1 +0 = 25 
-![alt text](https://imglink.io/ib/jyvg2BypjM)
+![alt text](https://imglink.io/ib/jyvg2BypjM.JPG)
+
