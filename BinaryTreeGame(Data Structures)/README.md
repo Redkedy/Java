@@ -11,7 +11,7 @@ for example:
 
  Player1 Total Children: 9+ 2 + 5 + 0+ 0+ 2 +0+ 0 + 1 +0 = 19 </br>
  Player2 Total Children: 9+ 1 + 6 + 0+ 5+ 1 +2+ 0 + 1 +0 = 25 </br>
- #First Round
+ # First Round
 ![alt text](https://imglink.io/ib/jyvg2BypjM.JPG) </br>
 # Rules
 According to this calculation result, the one with the lowest total childs wins the round </br>
