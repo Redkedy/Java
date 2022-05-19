@@ -22,3 +22,7 @@ Gives (adds) the root node of the opposing player's tree to the tree and deletes
 
 ![alt text](https://imglink.io/ib/amfotNTrxo.JPG) </br>
 
+# Screenshot :
+
+![alt text](https://imglink.io/ib/rHBGcNVXoZ.JPG) </br>
+
