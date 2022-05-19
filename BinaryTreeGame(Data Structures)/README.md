@@ -17,4 +17,8 @@ According to this calculation result, the one with the lowest total childs wins 
 If the total child numbers are equal, the root nodes are exchanged and deleted from themselves .When the nodes are changed, the BST tree rule is executed according to the new root node.The winner of the game 5 consecutive rounds or the one with the highest score at the end of 20 rounds wins the game. </br>
 The winning player adds the node with the highest value from the opposing side's (player's) tree to its tree and deletes it from the opposing side's tree. After this process, the winning player
 Gives (adds) the root node of the opposing player's tree to the tree and deletes it from itself.</br>As a deletion rule in a binary search tree, if the deleted node has two children, it is replaced with the maximum value of the left subtree of the node. </br>
+# According to these rules, second round:
+
+
+![alt text](https://imglink.io/ib/amfotNTrxo.JPG) </br>
 
