@@ -7,9 +7,9 @@ for example
 # oyuncu1.txt:
 85#12#7#99#83#105#90#87#101#97 
 # oyuncu2.txt:
-12#5#8#63#45#38#34#60#47#51 \n
+12#5#8#63#45#38#34#60#47#51 </br>
 
-# Player1 Total Children: 9+ 2 + 5 + 0+ 0+ 2 +0+ 0 + 1 +0 = 19
-# Player2 Total Children: 9+ 1 + 6 + 0+ 5+ 1 +2+ 0 + 1 +0 = 25 
+ Player1 Total Children: 9+ 2 + 5 + 0+ 0+ 2 +0+ 0 + 1 +0 = 19 </br>
+ Player2 Total Children: 9+ 1 + 6 + 0+ 5+ 1 +2+ 0 + 1 +0 = 25 
 ![alt text](https://imglink.io/ib/jyvg2BypjM.JPG)
 
