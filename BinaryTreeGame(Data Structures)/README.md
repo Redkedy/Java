@@ -4,7 +4,7 @@ when application runs, it will read player1.txt and player2.txt files. the rando
 Each node has number of all children attribute
 
 for example
-oyuncu1.txt:
-85#12#7#99#83#105#90#87#101#97
-oyuncu2.txt:
+#oyuncu1.txt:
+85#12#7#99#83#105#90#87#101#97 
+#oyuncu2.txt:
 12#5#8#63#45#38#34#60#47#51
