@@ -1,4 +1,4 @@
-# Game With Binary Tree 
+# Binary Tree based Game
 This java console application game uses binary tree.
 when application runs, it will read player1.txt and player2.txt files. the random numbers are separated by '#'
 Each node has number of all children attribute
